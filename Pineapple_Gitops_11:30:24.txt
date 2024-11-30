@@ -1,0 +1,5 @@
+Name = Karl
+Class= Class 6
+desired Income = $325k
+desired country = Japan, Costa Rica, Sweden, Brazil
+Favorite feaures on a lady = Breast, Hair, Face.
